@@ -1,0 +1,24 @@
+https://pypi.org/
+
+no cmd:
+
+py --version
+
+* Mostra a versão do python, caso não ache provavel
+* problema em Path
+
+py -m pip list
+
+* Mostra quais pacotes tem instalado na maquina.
+
+py -m pip install <nome do pacote>
+
+* Comando para instalar pacotes
+
+py -m pip show <nome do pacote>
+
+* infos sobre o pacote
+
+py -m pip unistall <nome do pacote>
+
+* desinstala um pacote
